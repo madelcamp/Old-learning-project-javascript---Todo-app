@@ -75,4 +75,5 @@ const generateSummaryDOM = (incompleteTodos) => {
     return summary
 }
 
+// Exporting
 export { generateTodoDOM, renderTodos, generateSummaryDOM }
